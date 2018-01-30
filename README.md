@@ -15,3 +15,9 @@ http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Pre
 LSTM simple example with useful utility functions
 
 https://github.com/gcarq/keras-timeseries-prediction
+
+
+LSTM code:
+
+
+https://www.youtube.com/watch?v=ftMq5ps503w
