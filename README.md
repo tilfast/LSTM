@@ -21,3 +21,6 @@ LSTM code:
 
 
 https://www.youtube.com/watch?v=ftMq5ps503w
+
+
+https://machinelearningmastery.com/timedistributed-layer-for-long-short-term-memory-networks-in-python/
